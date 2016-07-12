@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Sport and Science]]></title>
+        <description><![CDATA[Sport and Science]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 12 Jul 2016 10:42:44 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[New! Endurance Training - Infographic Edition]]></title>
+            <description><![CDATA[<article><h1>New! Endurance Training - Infographic Edition</h1><p>Available Mid-July 2016 Pre-order your copy with a 15% discount now! Endurance Training - Infographic Edition is a reader-frienly infographic version of Endurance Training - Science and Practice.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f61f2c06002575569f28d4494d1b5107/noop.jpg?input=http%3A%2F%2Fwww.inigomujika.com%2Fwp-content%2Fuploads%2F2016%2F06%2Fendurance-training-infographic-edition-228x300.jpg"></article>]]></description>
+            <link>http://www.inigomujika.com/en/books/new-endurance-training-infographic-edition#.V4KJZLiLTIV</link>
+            <guid isPermaLink="false">1ead6c65-bdc4-4a40-81b3-53d1de990e44</guid>
+            <pubDate>Tue, 12 Jul 2016 10:42:43 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
